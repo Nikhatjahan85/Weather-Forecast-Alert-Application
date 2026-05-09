@@ -34,43 +34,46 @@ The objective of this project is to build a professional weather analytics dashb
 
 
 
-📂 Project Structure
-
+# 📂 Project Structure
 
 
 WEATHER_FORECAST_&_ALERT_APP/
 │
 ├── dashboard/
-│   └── app.py                    
+│   └── app.py
 │
-├── data/                          
+├── data/
 │
-├── images/                        
+├── images/
 │
-├── outputs/                    
+├── outputs/
 │   ├── Delhi_chart.png
 │   ├── Lucknow_chart.png
 │   ├── Mumbai_chart.png
 │   └── Pune_chart.png
 │
-├── reports/                      
-│    
+├── reports/
+│   └── weather_report.csv
 │
-├── src/                            
-│   ├── __init__.py                
-│   ├── alerts.py              
-│   ├── config.py                
-│   ├── parser.py                  
-│   ├── report_generator.py       
-│   ├── simulation/                
-│   ├── utils.py                  
-│   ├── visualization.py           
-│   └── weather_api.py             
+├── src/
+│   ├── __init__.py
+│   ├── alerts.py
+│   ├── config.py
+│   ├── parser.py
+│   ├── report_generator.py
+│   ├── simulation/
+│   ├── utils.py
+│   ├── visualization.py
+│   └── weather_api.py
 │
-├── .gitignore                    
-├── main.py                        
-├── README.md                  
-└── requirements.txt               
+├── .gitignore
+│
+├── main.py
+│
+├── README.md
+│
+└── requirements.txt
+
 
 
 
@@ -93,7 +96,7 @@ WEATHER_FORECAST_&_ALERT_APP/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Nikhatjahan85/weather-forecast-dashboard.git
+git clone https://github.com/Nikhatjahan85/Weather-Forecast-Alert-Application
 
 
 ### 2. Navigate to the Project Directory
@@ -174,3 +177,5 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Nikhat Jahan
+
+🔗 GitHub: https://github.com/Nikhatjahan85⁠� 
