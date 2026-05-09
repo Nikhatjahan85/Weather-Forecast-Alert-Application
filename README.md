@@ -21,14 +21,23 @@ The objective of this project is to build a professional weather analytics dashb
 
 
 • Real-time weather forecasting
+
 • City-based weather search
+
 • Temperature, humidity, and wind analysis
+
 • Interactive Plotly visualizations
+
 • Multi-day weather forecast
+
 • Weather alert system
+
 • Responsive and professional UI
+
 • API-based live weather data
+
 • Dynamic analytics dashboard
+
 • Lightweight and fast performance
 
 
@@ -154,12 +163,19 @@ streamlit run main.py
 
 
 • AI-based weather prediction
+
 • Historical weather analytics
+
 • Auto-location detection
+
 • Dark and Light theme support
+
 • Advanced forecasting models
+
 • Weather news integration
+
 • Severe weather alert prediction
+
 • Machine learning-based climate analysis
 
 
