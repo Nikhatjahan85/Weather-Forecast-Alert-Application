@@ -132,7 +132,7 @@ python main.py
 
 ### Run Dashboard
 
-streamlit run main.py
+streamlit run dashboard/app.py
 
 
 ## 📊 Dashboard Highlights
