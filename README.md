@@ -1,23 +1,23 @@
 # 🌦️ Weather Forecast Analytics Dashboard
-� 
-� 
-� 
-� 
-�
 
 
-A modern and interactive Weather Forecast Analytics Dashboard built using Python, Streamlit, and advanced visualization libraries.
-The project provides real-time weather forecasting, analytics, and professional dashboard visualizations with a clean and responsive user interface.
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 
-## 🎯 Objective
+
+
+##  Objective
+
 
 
 The objective of this project is to build a professional weather analytics dashboard that provides real-time weather forecasting, interactive visualizations, and detailed weather insights using Python and Streamlit.
 
 
 
-## 🚀 Features
+##  Features
 
 
 • Real-time weather forecasting
@@ -37,6 +37,7 @@ The objective of this project is to build a professional weather analytics dashb
 📂 Project Structure
 
 
+
 WEATHER_FORECAST_&_ALERT_APP/
 │
 ├── dashboard/
@@ -53,11 +54,11 @@ WEATHER_FORECAST_&_ALERT_APP/
 │   └── Pune_chart.png
 │
 ├── reports/                      
-│     ├── weather_report.csv
+│    
 │
 ├── src/                            
 │   ├── __init__.py                
-    ├── alerts.py              
+│   ├── alerts.py              
 │   ├── config.py                
 │   ├── parser.py                  
 │   ├── report_generator.py       
@@ -73,7 +74,7 @@ WEATHER_FORECAST_&_ALERT_APP/
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 
 | Technology | Purpose |
@@ -87,7 +88,7 @@ WEATHER_FORECAST_&_ALERT_APP/
 
 
 
-## ⚙️ Installation
+##  Installation
 
 
 ### 1. Clone the Repository
@@ -124,7 +125,7 @@ python main.py
 streamlit run main.py
 
 
-# 📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 
 | Feature | Description |
@@ -163,6 +164,8 @@ streamlit run main.py
 
 
 ## 📜 License
+
+
 
 This project is licensed under the MIT License.
 
