@@ -33,6 +33,8 @@ The objective of this project is to build a professional weather analytics dashb
 
 
 
+## Project Structure
+
 WEATHER_FORECAST_&_ALERT_APP/
 │
 ├── dashboard/
