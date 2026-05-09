@@ -1,0 +1,11 @@
+def simulate_weather():
+
+    sample_weather = {
+        "city": "Delhi",
+        "temperature": 42,
+        "humidity": 88,
+        "weather": "heavy rain",
+        "wind_speed": 12
+    }
+
+    return sample_weather
